@@ -18,6 +18,6 @@ We're using a few datasets to train on.
 
 ##### Datasets
 
-- SKU-110k
+- SKU110K
 
 ...
