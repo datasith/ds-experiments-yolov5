@@ -14,10 +14,21 @@ pip install -r requirements.txt
 
 #### Train on Custom Data
 
+If you're training on an Intel Mac, you might encounter the error:
+
+```
+OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.
+```
+
+The solution ([found on Stack Overflow](https://stackoverflow.com/questions/53014306/error-15-initializing-libiomp5-dylib-but-found-libiomp5-dylib-already-initial)) for this is to:
+
+```
+conda update --all --yes
+conda install nomkl
+```
+
 We're using a few datasets to train on.
 
 ##### Datasets
 
 - SKU110K
-
-...
