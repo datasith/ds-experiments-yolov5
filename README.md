@@ -23,12 +23,14 @@ YOLOv5 models on custome data.
   <tr>
     <th class="tg-yw4l"><b>Name</b></th>
     <th class="tg-yw4l"><b>Dataset</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>    
     <th class="tg-yw4l"><b>Notebook</b></th>
   </tr>
   
   <tr>
     <td class="tg-yw4l">Demo SKU110K</td>
-    <td class="tg-yw4l">Retail images</td>
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/datasets/thedatasith/sku110k-annotations">SKU110K</a></td>    
+    <td class="tg-yw4l">Densely packed images of objects on shelves</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Intro_Computational_Graphs.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
