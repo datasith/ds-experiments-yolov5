@@ -2,8 +2,8 @@
 
 ## Getting Started
 
-Clone this repo and install requirements.txt in a Python>=3.7.0 environment, 
-including PyTorch>=1.7. The models and datasets download automatically from the
+Clone this repo and install `requirements.txt` in a `Python>=3.7.0` environment, 
+including `PyTorch>=1.7`. The models and datasets download automatically from the
 latest YOLOv5 release.
 
 ```bash
