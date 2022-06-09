@@ -1,4 +1,4 @@
-# Object Detection YOLOv5
+# Object Detection with YOLOv5
 
 ## Getting Started
 
