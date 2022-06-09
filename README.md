@@ -16,7 +16,7 @@ Alternatively, use the links provided below to open them in Google Colab.
 
 ## Training on Custom Data
 
-All the notebooks in this repo make use of the @Ultralytics scripts for training 
+All the notebooks in this repo make use of the <a href="https://github.com/ultralytics">@Ultralytics</a> scripts for training 
 YOLOv5 models on custom data.
 
 <table class="tg">
