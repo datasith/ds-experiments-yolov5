@@ -31,7 +31,7 @@ YOLOv5 models on custom data.
     <td class="tg-yw4l">Demo SKU110K</td>
     <td class="tg-yw4l"><a href="https://www.kaggle.com/datasets/thedatasith/sku110k-annotations">SKU110K</a></td>    
     <td class="tg-yw4l">Densely packed images of objects on shelves</td>
-    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ML-Notebooks-TensorFlow/blob/main/Intro_Computational_Graphs.ipynb">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ds-experiments-yolov5/blob/main/demo_sku110k.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
   </tr>
