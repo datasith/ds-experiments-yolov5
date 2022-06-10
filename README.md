@@ -7,9 +7,11 @@ including `PyTorch>=1.7`. The models and datasets download automatically from th
 latest YOLOv5 release.
 
 ```bash
-git clone https://github.com/ultralytics/yolov5
-cd yolov5 
-pip install -r requirements.txt
+git clone https://github.com/datasith/ds-experiments-yolov5
+cd ds-experiments-yolov5
+git submodule init
+git submodule update
+pip install -r yolov5/requirements.txt
 ```
 
 Alternatively, use the links provided below to open them in Google Colab.
