@@ -35,7 +35,15 @@ YOLOv5 models on custom data.
       <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
     </a></td>
   </tr>
-  
+
+  <tr>
+    <td class="tg-yw4l">Demo CoTS (Kaggle)</td>
+    <td class="tg-yw4l"><a href="https://www.kaggle.com/competitions/tensorflow-great-barrier-reef/data">CoTS</a></td>    
+    <td class="tg-yw4l">Detect Crown-O=of-Thorns Starfish in real-time by training a model on underwater videos of coral reefs</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/datasith/ds-experiments-yolov5/blob/main/demo_kaggle_cots.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" width="" >
+    </a></td>
+  </tr>  
 </table>
 
 ## Errata
@@ -59,6 +67,7 @@ conda install nomkl
 I'm using a few datasets to train on. This list will be updated with each added one.
 
 - SKU110K
+- CoTS (Kaggle)
 
 ---
 
