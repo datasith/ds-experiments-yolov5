@@ -14,7 +14,7 @@ git submodule update
 pip install -r yolov5/requirements.txt
 ```
 
-Alternatively, use the links provided below to open them in Google Colab.
+Alternatively, use the links provided below to open them in **Google Colab**.
 
 ## Training on Custom Data
 
